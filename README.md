@@ -13,7 +13,7 @@
 - Order Frequency
 - Average Order Value 
 - RFM Analysis
-- Top Households by Spening
+- Top Households by Spending
 - Spending by Age Group
 - Spending by Income group
 - Spending by Homeownership
