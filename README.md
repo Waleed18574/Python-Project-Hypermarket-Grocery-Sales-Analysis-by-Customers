@@ -5,7 +5,7 @@
 - Understand customer purchasing patterns, average spending, and response to discounts. 
 - Identify loyal customers, high spenders, and discount-sensitive segments.
 
-<img src = "../assets/data-model.PNG">
+<img src = "assets/data-model.PNG">
 
 ## Analysis Tasks
 
