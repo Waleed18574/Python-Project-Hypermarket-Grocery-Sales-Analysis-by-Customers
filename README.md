@@ -18,6 +18,6 @@
 - Spending by Income group
 - Spending by Homeownership
 - Discount Utilization 
-- Cusomter Segmentation by Total Spend, Total Orders and Total Discount.
+- Customer Segmentation by Total Spend, Total Orders and Total Discount.
 
 Business insights and recommendations are provided after each analysis to utilize the findings and make informed decisions.
