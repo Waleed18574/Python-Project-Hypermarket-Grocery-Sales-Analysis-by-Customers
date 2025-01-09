@@ -1,5 +1,0 @@
-pd.options.plotting.backend = "hvplot"
-
-df.style.background_gradient()
-df.style.highlight_between()
-df.style.set_table_styles([{"selector":"tr:hover", "props":"background-color: orange; font-size:2em;"}])
